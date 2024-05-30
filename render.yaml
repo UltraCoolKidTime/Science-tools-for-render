@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: science-tools-for-render
+    env: docker
+    plan: free
